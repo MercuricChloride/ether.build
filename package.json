@@ -1,0 +1,11 @@
+{
+  "name": "ether.build",
+  "version": "0.1.0",
+  "description": "A rebuild of eth.build in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blind_nabler",
+  "license": "GPL-3.0-or-later"
+}
